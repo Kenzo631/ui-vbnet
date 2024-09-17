@@ -1,0 +1,20 @@
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\bin\Debug\Coba-coba database ui.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\bin\Debug\Coba-coba database ui.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\bin\Debug\Coba-coba database ui.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\Coba_coba_database.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\Coba_coba_database.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\Coba-coba database ui.vbproj.GenerateResource.Cache
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\Coba-coba database ui.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\Coba-coba database ui.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Projects\Coba-coba database ui\obj\Debug\Coba-coba database ui.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\Coba-coba database ui.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\Coba-coba database ui.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\Coba-coba database ui.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\bin\Debug\Coba-coba database ui.exe
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\bin\Debug\Coba-coba database ui.pdb
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\bin\Debug\Coba-coba database ui.xml
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\Coba_coba_database.Form1.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\Coba_coba_database.Resources.resources
+C:\Users\DELL\Documents\Visual Studio 2008\Coba-coba database ui\obj\Debug\Coba-coba database ui.vbproj.GenerateResource.Cache
